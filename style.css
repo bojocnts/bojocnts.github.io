@@ -1,0 +1,14 @@
+body {
+  background-color: maroon;
+}
+h1 {
+  color: white;
+  font-family: arial;
+  font-size: 400%;
+}
+p {
+    border: 10px solid white;
+  color: white;
+  font-family: arial;
+  font-size:150%;
+}
